@@ -15,7 +15,7 @@ const Navigation = () => {
     { label: 'Home', href: '/', public: true },
     { label: 'Translator', href: '/translator', public: false },
     { label: 'Learn ISL', href: '/learn', public: true },
-    { label: 'Community', href: '/community', public: true },
+    { label: 'Translate', href: '/community', public: true },
     { label: 'About', href: '/about', public: true },
     { label: 'Support', href: '/support', public: true },
   ];
